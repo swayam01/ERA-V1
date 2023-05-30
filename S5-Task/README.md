@@ -1,5 +1,3 @@
-# README.md
-
 # MNIST Handwritten Digit Classification
 
 This repository contains the PyTorch implementation for classifying the MNIST handwritten digit dataset. The code is separated into three main files:
