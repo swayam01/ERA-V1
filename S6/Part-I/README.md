@@ -40,3 +40,6 @@ The partial derivatives of `E_total` with respect to each hidden layer weight ar
 - `∂E_total/∂w4 = ((a_01 - t1) * a_o1 * (1 - a_o1) * w6 +  (a_02 - t2) * a_o2 * (1 - a_o2) * w8) * a_h2 * (1 - a_h2) * i2`
 
 These sequence of calculations are used to update the weights of the neural network during training, with the aim of minimizing the total error `E_total`. The weights are updated by subtracting the product of the learning rate and the corresponding derivative from the current weight value.
+
+---
+
