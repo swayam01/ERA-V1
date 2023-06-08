@@ -43,9 +43,15 @@ These sequence of calculations are used to update the weights of the neural netw
 
 ---
 ![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/0.1.png)
+LR=0.1
 ![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/0.2.png)
+LR=0.2
 ![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/0.5.png)
+LR=0.5
 ![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/0.8.png)
+LR=0.8
 ![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/1.0.png)
+LR=1.0
 ![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/2.0.png)
+LR=2.0
 
