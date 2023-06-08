@@ -1,3 +1,5 @@
+![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/Screenshot%202023-06-09%20at%2012.01.46%20AM.png)
+
 ---
 
 1. **Forward Propagation**:
