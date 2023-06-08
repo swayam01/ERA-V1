@@ -42,4 +42,10 @@ The partial derivatives of `E_total` with respect to each hidden layer weight ar
 These sequence of calculations are used to update the weights of the neural network during training, with the aim of minimizing the total error `E_total`. The weights are updated by subtracting the product of the learning rate and the corresponding derivative from the current weight value.
 
 ---
+![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/0.1.png)
+![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/0.2.png)
+![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/0.5.png)
+![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/0.8.png)
+![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/1.0.png)
+![Image Description](https://github.com/swayam01/ERA-V1/blob/main/S6/Part-I/Assest/2.0.png)
 
