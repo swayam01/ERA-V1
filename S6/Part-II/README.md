@@ -1,5 +1,3 @@
-# README.md
-
 ## Project Overview
 
 This project is about building a machine learning model to recognize handwritten digits. We're going to use a special type of machine learning model called a neural network, specifically a Convolutional Neural Network (CNN). This might sound complex, but don't worry! I'll guide you through it.
@@ -52,10 +50,23 @@ def test(model, device, test_loader):
 
 ## How to Run the Code
 
-To run the code, you can save the notebook file and run it in the terminal by typing:
+To execute the code in the notebook from the terminal, you can follow these steps:
 
-```bash
-ipython file.ipynb
+1. Convert the notebook to a Python script (.py) file using the `jupyter nbconvert` command. Run the following command in the terminal:
+
+```shell
+jupyter nbconvert --to python ERA_S6.ipynb
 ```
 
+2. This will generate a Python script file named `ERA_S6.py` in the same directory as your notebook.
+
+3. Run the Python script from the terminal using the `python` command. Execute the following command in the terminal:
+
+```shell
+python ERA_S6.py
+```
 This will start the training process. You will see some output showing the model's progress. Once it's done, you'll see a message showing how well the model performed on the test data.
+
+Make sure that you have Jupyter and its dependencies installed in your environment for this to work properly.
+
+Note: The above commands assume that you are running them in the same directory as your notebook file (`ERA_S6.ipynb`). Adjust the commands accordingly if your notebook file is located in a different directory.
